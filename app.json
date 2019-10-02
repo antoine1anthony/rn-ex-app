@@ -25,6 +25,8 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": "Example of RN",
+    "githubUrl": "https://github.com/antoine1anthony/rn-ex-app"
   }
 }
